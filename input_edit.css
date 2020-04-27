@@ -1,0 +1,60 @@
+h2 { 
+background-color: rgba(255,255,239,0.5);
+font-family: ARIAL;
+font-size: 25pt;
+text-align: center;
+color: black;
+padding: 10px;
+border-radius: 50px;
+border: 2px solid black;
+}
+
+body {
+background-image: url('img/pict2.jpg');
+background-size: 100% 100%; 
+font-size: 25pt;
+text-align: center;
+margin : auto;
+margin-top : 140px;
+color: black;
+border-radius:15px;
+width: 450px;
+height: 300px;
+}
+
+table {
+background-color: rgba(255,255,239,0.5);
+padding: 20px;
+width: 450px;
+margin : auto;
+border: 2px solid black;
+border-radius:15px;
+}
+
+input[type=text]
+{
+background-color: rgba(255,255,255,0.9);
+border-radius: 5px;
+}
+
+input[type=submit]
+{
+background-color: rgba(152,251,153,0.7);
+border-radius: 18px;
+font-size: 10pt;
+padding: 5px;
+}
+
+input[type=reset]
+{
+background-color: white;
+border-radius: 18px;
+font-size: 10pt;
+padding: 5px;
+}
+
+
+
+
+
+
